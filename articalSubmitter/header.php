@@ -52,7 +52,7 @@
                     <a class="nav-link" href="search.php">Search Artical</a>
                 </li>
             </ul>
-            <form class="form-inline my-2 my-lg-0" action="search.php">
+            <form class="form-inline my-2 my-lg-0" action="searchView.php">
                 <input class="form-control mr-sm-2" type="text" name="search" id="search" placeholder="Search"
                     <?php if(isset($_GET['search'])) echo 'value="'.$_GET['search'].'"'; ?>>
                 <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Quick Search</button>
