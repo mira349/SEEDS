@@ -43,13 +43,13 @@
                     <a class="nav-link" href="index.php">Home </a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="add.php">Add Artical</a>
+                    <a class="nav-link" href="add.php">Add Article</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="analyze.php">Analyze Artical</a>
+                    <a class="nav-link" href="analyze.php">Analyze Article</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="search.php">Search Artical</a>
+                    <a class="nav-link" href="searchView.php">Search Article</a>
                 </li>
             </ul>
             <form class="form-inline my-2 my-lg-0" action="searchView.php">
