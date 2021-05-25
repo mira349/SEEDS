@@ -1,6 +1,7 @@
 <?php
     // File required for database connective 
     require_once 'connect.php';
+     require_once 'header.php';
 ?>
 <html>
 
