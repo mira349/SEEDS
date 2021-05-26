@@ -10,7 +10,7 @@
             <div class="container">
                 <div class="row text-white bg-light">
                     <div class="col-xl-10 col-lg-10 col-md-10 col-sm-12 mx-auto text-center form p-1">
-                        <h1 class="font-weight-normal py-2 text-truncate text-custom text-left">Analyze artical</h1>
+                        <h1 class="font-weight-normal py-2 text-truncate text-custom text-left">Analyze article</h1>
                         <div class="px-2">
 
                             <div class="table-responsive">
