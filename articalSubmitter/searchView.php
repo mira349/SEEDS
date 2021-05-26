@@ -35,7 +35,7 @@
                 <div class="container">
                     <div class="row text-white">
                         <div class="col-xl-10 col-lg-10 col-md-10 col-sm-12 mx-auto text-center form p-4">
-                            <h1 class="font-weight-normal py-2 text-truncate text-custom text-center">Search artical
+                            <h1 class="font-weight-normal py-2 text-truncate text-custom text-center">Search article
                             </h1>
                             <div class="px-2">
                                 <form action="#" class="justify-content-center text-custom" method="GET">

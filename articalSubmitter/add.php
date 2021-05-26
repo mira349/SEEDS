@@ -7,7 +7,7 @@
             <div class="container">
                 <div class="row text-white">
                     <div class="col-xl-5 col-lg-6 col-md-8 col-sm-10 mx-auto text-center form p-4">
-                        <h1 class="font-weight-normal py-2 text-truncate text-custom text-left">Artical Submitter
+                        <h1 class="font-weight-normal py-2 text-truncate text-custom text-left">Article Submitter
                             Form</h1>
                         <p class="p text-center">
                             <?php 
