@@ -7,7 +7,7 @@
             <div class="container">
                 <div class="row text-white bg-light border-rounded">
                     <div class="col-xl-5 col-lg-6 col-md-8 col-sm-10 mx-auto text-center form p-4">
-                        <h1 class="font-weight-normal py-2 text-truncate text-custom text-left">Article Submitter
+                        <h1 class="font-weight-normal py-2 text-truncate text-custom text-left">SEEDS
                             Home Page</h1>
 
                         <div class="px-2">
