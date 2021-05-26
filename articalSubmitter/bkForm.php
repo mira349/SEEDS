@@ -26,7 +26,7 @@ $pages= (isset($_POST['pages'])) ? $_POST['pages']: '';
 $annote= (isset($_POST['annote'])) ? $_POST['annote']: '';
 $publisher= (isset($_POST['publisher'])) ? $_POST['publisher']: '';
 // status weather the paper is excpeted for future use
-$status= 'Pending';
+$status= 'pending';
 // changing timezone from default to NewZealand
 date_default_timezone_set('NZ');
 $regisTime= date('H:i d:m:Y');
@@ -48,9 +48,9 @@ $stmt->bindParam(':regisTime',$regisTime);
 // try catch block to check weather querry executes or not 
 try {
 	$stmt->execute();
-	header("Location:index.php?msg=Application successfully submitted!&errCode=200");
+	header("Location:add.php?msg=Application successfully submitted!&errCode=200");
 } catch (Exception $e) {
 	$errMsg = $e->getMessage();
-	header("Location:index.php?msg=$errMsg&errCode=400");
+	header("Location:add.php?msg=$errMsg&errCode=400");
 }
 ?>
