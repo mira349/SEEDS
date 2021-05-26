@@ -3,10 +3,10 @@
 // $username = "";
 // $password = "";
 // $database = "";
-$servername = "cmslamp14.aut.ac.nz";
-$username = "ggh9947";
-$password = "@Peniamina349";
-$database = "ggh9947";
+$servername = "remotemysql.com";
+$username = "fENAA6yged";
+$password = "JL4gEVMkNy";
+$database = "fENAA6yged";
 try {
     $conn = new PDO("mysql:host=$servername;dbname=$database", $username, $password);
     // set the PDO error mode to exception

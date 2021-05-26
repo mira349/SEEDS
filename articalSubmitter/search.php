@@ -41,7 +41,7 @@
                                 <table class="table table-striped">
                                     <thead>
                                         <tr>
-                                            <th>Sr #</th>
+                                            <th>Sr ##</th>
                                             <th>Author</th>
                                             <th>Title</th>
                                             <th>Journal</th>
